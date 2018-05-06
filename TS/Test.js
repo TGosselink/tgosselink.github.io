@@ -9,4 +9,5 @@ var Greeter = (function () {
     return Greeter;
 }());
 var greeter = new Greeter(" Twitter");
+console.log(greeter.greet());
 //# sourceMappingURL=Test.js.map

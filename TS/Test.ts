@@ -10,4 +10,4 @@ class Greeter {
 
 var greeter = new Greeter(" Twitter");
 
-//greeter.greet();
+console.log(greeter.greet());
